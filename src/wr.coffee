@@ -11,9 +11,3 @@ wr =
       count = count + pair[1]
       if count > randomIndex
           return pair[0]
-
-
-test = [["one", 60],["two", 120],["three", 240]]
-
-alert wr.choice test
-
