@@ -19,7 +19,6 @@ Example
     animal = wr.choice(data)
     console.log(animal)
     #cat
-    # (well, the cat had a good 60% shot at it.)
 
 Installation
 -----------------------------
