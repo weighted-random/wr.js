@@ -1,15 +1,18 @@
-# # wr.js
-# *wr.js is a weighted random implementation in Java Script based on wr.py*
-# Copyright (c) 2012, Daniel Waardal
-# All rights reserved.
-# License: BSD
+/*
+# wr.js #
+*wr.js is a weighted random implementation in Java Script based on wr.py*  
+Copyright (c) 2012, Daniel Waardal 
+All rights reserved.  
+License: BSD
 
-# ## Example ##
-#    var animal, data;
-#    data = [['cat', 60], ['dog', 30], ['bird', 10]]
-#    animal = wr.choice(data)
-#    console.log(animal)
 
+## Example ##
+
+    var animal, data;
+    data = [['cat', 60], ['dog', 30], ['bird', 10]]
+    animal = wr.choice(data)
+    console.log(animal)
+*/
 
 var wr;
 
