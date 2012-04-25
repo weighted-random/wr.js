@@ -6,7 +6,7 @@
 wr.js (Weighted Random)
 ==========================
 
-*wr is a weighted random implementation in Java Script based on `wr <http://pypi.python.org/pypi/wr>`_.*
+*wr.js is a weighted random implementation in Java Script based on wr.py*
 
 ``wr.choice`` can be fed with a array of pairs containing a returnable (what to return) and a integer representing their respective weight.  
 The returnable can be anything but the weight must be a integer.
@@ -28,3 +28,8 @@ Just `download wr.js <https://raw.github.com/waawal/wr.js/master/wr.js>`_ and pl
 License
 -------
 `BSD <http://www.linfo.org/bsdlicense.html>`_
+
+Links
+-----
+
+Based on `wr.py <http://pypi.python.org/pypi/wr>`_
