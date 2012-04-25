@@ -15,8 +15,11 @@ Example
 -------
 ::
 
+    var animal, data;
+
     data = [['cat', 60], ['dog', 30], ['bird', 10]]
     animal = wr.choice(data)
+
     console.log(animal)
     #cat
 
