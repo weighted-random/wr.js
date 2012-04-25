@@ -4,7 +4,7 @@
     :target: https://github.com/waawal/wr.js
 
 wr.js (Weighted Random)
-==========================
+=======================
 
 *wr.js is a weighted random implementation in Java Script based on wr.py*
 
@@ -23,8 +23,12 @@ Example
     console.log(animal)
     #cat
 
+Size
+----
+`Minified <https://raw.github.com/waawal/wr.js/master/wr.min.js>`_ ``0.27 kb``
+
 Installation
------------------------------
+------------
 
 Just `download wr.js <https://raw.github.com/waawal/wr.js/master/wr.js>`_ and place it in your project directory.
 
